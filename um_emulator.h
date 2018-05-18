@@ -1,7 +1,6 @@
 /*  
  *      um_emulator.h
  *      by Robin Park, Sang Woo Kim 11/20/2017
- *      COMP40 HW6
  *
  *      Purpose: Header file for um_emulator module
  */
