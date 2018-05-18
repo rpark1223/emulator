@@ -1,7 +1,6 @@
 /*  
  *      segments.h
  *      by Robin Park, Sang Woo Kim 11/17/2017
- *      COMP40 HW6
  *
  *      Purpose: Header file for segments module
  */
