@@ -1,9 +1,3 @@
-/*  
- *      README
- *      by Robin Park, Sang Woo Kim 11/20/2017
- *      COMP40 HW6
- */
-
 I. Correctly Implemented:
     A. We believe that we have implemented all parts of the assignment correctly
         , from our um_emulator module which execute the instructions contained
