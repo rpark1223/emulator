@@ -1,7 +1,6 @@
 /*  
  *      main.c
  *      by Robin Park, Sang Woo Kim 11/20/2017
- *      COMP40 HW6
  *
  *      Purpose: contains main for um emulator program
  */
