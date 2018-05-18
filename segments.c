@@ -1,7 +1,6 @@
 /*  
  *      segments.c
  *      by Robin Park, Sang Woo Kim 11/20/2017
- *      COMP40 HW6
  *
  *      Purpose: Implementation file for segments module
  */
