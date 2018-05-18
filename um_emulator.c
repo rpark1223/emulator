@@ -1,7 +1,6 @@
 /*  
  *      um_emulator.c
  *      by Robin Park, Sang Woo Kim 11/20/2017
- *      COMP40 HW6
  *
  *      Purpose: Implementation file for um_emulator module
  */
